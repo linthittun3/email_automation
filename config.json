@@ -1,0 +1,10 @@
+{
+  "gmail_address": "linthittun77@gmail.com",
+  "app_password": "dslh qzgo pmnd ayku",
+  "subject": "Testing",
+  "delay_min_seconds": 1.0,
+  "delay_max_seconds": 2.0,
+  "pause_every": 100,
+  "pause_seconds": 60,
+  "from_name": "Lin Thit Tun"
+}

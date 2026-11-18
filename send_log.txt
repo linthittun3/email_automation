@@ -1,0 +1,9 @@
+[2026-11-18 20:59:21] Loaded 2 unique recipients from recipients.xlsx (0 skipped).
+[2026-11-18 20:59:21] DRY RUN: would send 2 emails. No mail will be sent.
+[2026-11-18 20:59:21] [1/2] OK (dry run) -> linthittun88@gmail.com
+[2026-11-18 20:59:21] [2/2] OK (dry run) -> linthittun78@gmail.com
+[2026-11-18 20:59:21] Done. Sent: 2, Failed: 0.
+[2026-11-18 21:00:03] Loaded 2 unique recipients from recipients.xlsx (0 skipped).
+[2026-11-18 21:00:06] [1/2] Sent -> linthittun88@gmail.com
+[2026-11-18 21:00:09] [2/2] Sent -> linthittun78@gmail.com
+[2026-11-18 21:00:09] Done. Sent: 2, Failed: 0.
